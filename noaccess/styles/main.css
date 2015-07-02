@@ -1,0 +1,31 @@
+body {
+  background: url("../../access/images/background.jpg") no-repeat fixed top;
+}
+
+#content-all {
+  display: block;
+  margin: auto;
+  width: 70%;
+  margin-top: 0;
+  border: 2px solid grey;
+}
+
+.content {
+  height: 100%;
+}
+
+
+#navbar {
+  height: 50px;
+  background-color: #050505;
+  opacity: 0.7;
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
