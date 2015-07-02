@@ -14,6 +14,10 @@ body {
   height: 100%;
 }
 
+.main {
+  width: 100%;
+}
+
 
 #navbar {
   height: 50px;
