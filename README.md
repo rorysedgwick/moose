@@ -15,6 +15,7 @@ This repository aims to mimic a typical HTML and CSS interview challenge for a J
 ### Setup
 - ```git clone``` this repository onto your local machine and ```cd moose```  
 - There will be two folders: /access & /noaccess. Do not edit anything in the /noaccess folder  
+- Enter the command ```python -m SimpleHTTPServer``` to start a simple server that will serve every file in your current directory and below  
 - Within /access there will be an HTML file and an empty CSS file. This is where you will make your changes  
 - There will also be a questions sheet. This will indicate the fixes/improvement you are required to make to the index.html file  
 - Open ```index.html``` in your favourite browser and begin the test  

@@ -1,29 +1,108 @@
 body {
   background: url("../../access/images/background.jpg") no-repeat fixed top;
+  color: #f0f0f0;
+  font-family: scada;
+
+}
+
+.branding {
+  max-width: 40%;
+  display: inline-block;
+  color: white;
+  font-family: scada;
+  margin: auto;
 }
 
 #content-all {
   display: block;
   margin: auto;
-  width: 70%;
+  width: 80%;
   margin-top: 0;
-  border: 2px solid grey;
+  border: 1px solid grey;
 }
 
 .content {
   height: 100%;
 }
 
+.dropdown {
+  height: 100%;
+  font-family: Verdana;
+  font-size: 12px;
+  flex-direction: row;
+  text-align: center;
+  width: 19%;
+  border: 1px solid grey;
+}
+
+.dropdown-toggle {
+  color: white;
+}
+
+#header {
+  display: block;
+  width: 100%;
+  border: 1px solid grey;
+  height: 100px;
+  vertical-align: middle;
+}
+
+.image-header {
+  height: 140px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.logo-holder {
+  position: relative;
+  width: 40%;
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+}
+
 .main {
   width: 100%;
 }
 
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin-top: 0;
+  padding: 0px;
+}
 
-#navbar {
+.navbar {
   height: 50px;
   background-color: #050505;
   opacity: 0.7;
   width: 100%;
+}
+
+.navbar .nav>li>a {
+  text-align: center;
+  color: #f0f0f0;
+  text-shadow: none;
+  padding: 0 14px;
+  line-height: 11px;
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+#page-header-img {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 140px;
+  display: block;
+  overflow: none;
 }
 
 .row {
