@@ -63,8 +63,18 @@ body {
   margin: auto;
 }
 
+.logo-holder-holder {
+  width: 40%;
+  display: block;
+}
+
 .main {
   width: 100%;
+}
+
+.moose-product_image {
+  max-height: 150px;
+  max-width: 150px;
 }
 
 .nav {
@@ -109,6 +119,16 @@ body {
   width: 100%;
   margin: 0;
   padding: 0;
+}
+
+.sidebar {
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
 }
 
 
