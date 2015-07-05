@@ -17,8 +17,8 @@ Give yourself 45 minutes to complete the challenge. If you are feeling adventuro
 - There will be two folders: /access & /noaccess. Do not edit anything in the /noaccess folder  
 - Enter the command ```python -m SimpleHTTPServer``` to start a simple server that will serve every file in your current directory and below  
 - Within /access there will be an HTML file and an empty CSS file. This is where you will make your changes  
-- There will also be a instructions sheet.  contains the questions and will indicate the fixes/improvements you are required to make to the products.html file  
-- Open ```products.html``` in your favourite browser and begin the test  
+- There will also be a instructions sheet. View it on [GitHub](https://github.com/rorysedgwick/moose/blob/master/access/instructions.md) to see the accompanying images. This contains the questions and will indicate the fixes/improvements you are required to make to the products.html file  
+- Navigate to http://localhost:8000/access/products.html in your favourite web browser to begin the test  
 
 
 The company that set the challenge that inspired this example will remain anonymous, and the test has been sufficiently modified to not exactly mirror the questions asked.

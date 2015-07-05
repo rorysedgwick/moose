@@ -11,13 +11,13 @@ These are the individual changes you are required to indentify and correct withi
 2. This text is overflowing its container. Resize the container to make sure all the text is visible  
 ![question 2](../noaccess/images/question2.png)  
 
-3. Turn this text into a link to [this url](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)  
+3. Turn the text in the red box into a link to [this url](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)  
 ![question 3](../noaccess/images/question3.png)  
 
-4. Move this image 18px to the right, so that it is vertically aligned with the text in the list items above  
+4. Move the "Designed for Samsung" image 18px to the right, so that it is vertically aligned with the text in the list items above  
 ![question 4](../noaccess/images/question4.png)  
 
-5. Change the text content of this div so that it says "amazing life-like". Make sure life-like is all on the same line  
+5. Change the text content of the second list item so that it says "amazing life-like". Make sure life-like is all on the same line  
 ![question 5](../noaccess/images/question5.png)
 
 
