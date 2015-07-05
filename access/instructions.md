@@ -1,5 +1,7 @@
 ### Instructions
 
+*Beware:* there are many links on the page which do not lead anywhere. This is intentional and fixing them is not part of the current challenge.
+
 These are the individual changes you are required to indentify and correct within the web page.
 
 
@@ -7,7 +9,7 @@ These are the individual changes you are required to indentify and correct withi
 That section of the page should look like this:  
 [insert screenshot]  
 
-2. This text is overflowing its container div. Make sure all the text is visible  
+2. This text is overflowing its container div. Resize the container to make sure all the text is visible  
 [screenshot]
 
 3. Turn this text into a link  
@@ -19,4 +21,4 @@ That section of the page should look like this:
 5. Change the text content of this div so that is says "---- --- ----" and the text is all on the same line  
 
 
-6. Now look through the site and try to spot any extra errors. Note these down, along with how you would go about correcting them.  
+~~6. Now look through the site and try to spot any extra errors. Note these down, along with how you would go about correcting them.  ~~
