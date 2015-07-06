@@ -5,7 +5,7 @@
 These are the individual changes you are required to indentify and correct within the web page.
 
 
-1. Set the banner image to match this  
+1. Set the banner image to display this image as the background  
 ![question 1](../noaccess/images/question1.png)  
 ---  
 
@@ -13,11 +13,11 @@ These are the individual changes you are required to indentify and correct withi
 ![question 2](../noaccess/images/question2.png)  
 ---  
 
-3. Turn the text in the red box into a link to [this url](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)  
+3. Make the "View product" text in the red box a url that points to [this page](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)  
 ![question 3](../noaccess/images/question3.png)  
 ---  
 
-4. Move the "Designed for Samsung" image 18px to the right, so that it is vertically aligned with the text in the list items above  
+4. Move the "Designed for Samsung" image 18px to the right, so that it is vertically aligned with the text in the list items above (as shown)  
 ![question 4](../noaccess/images/question4.png)  
 ---  
 
@@ -25,5 +25,9 @@ These are the individual changes you are required to indentify and correct withi
 ![question 5](../noaccess/images/question5.png)  
 ---  
 
+6. Give the last list item in the site map a font-weight of 700  
+![question 6](../noaccess/images/question6.png)  
+---  
 
-~~6. Now look through the site and try to spot any extra errors. Note these down, along with how you would go about correcting them.~~
+
+~~7. Now look through the page and try to spot any extra errors. Note these down, along with how you would go about correcting them.~~
