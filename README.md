@@ -3,6 +3,8 @@
 
 This repository aims to mimic a typical HTML and CSS interview challenge for a Junior Front-end Developer role. It will include similar questions to those found in an actual challenge and will be a way to gauge your fluency with these skills. The aim of the test is see how well you can identify and fix errors in someone else's code, both in HTML and CSS. A large part of the test is to see how you respond to completely unfamiliar code and if you can identify the relevant elements or styles to change within reasonably large, nested files. The time limit is also important as the employers were keen to see how quickly we could work through the problems, and we were all pushed for time in the real test.  
 
+Bear in mind that there is no single correct answer for each of the questions. Just keep in mind how the changes you are making may impact on other elements or styles on the page, how easily they could be overwritten by other style changes, and how simple it would to be for someone else looking at the code to make subsequent alterations themselves.  
+
 Give yourself 40 minutes to complete the challenge. If you are feeling adventurous and want to make the challenge more realistic, try completing it in a text editor you have never used before. Each interview situation may require you to use a completely novel text editor and learning to navigate slightly unfamiliar interfaces will help you make the most of your time during these tests. Why not try:
 
  - [Notepad++](https://notepad-plus-plus.org/download/v6.7.9.2.html)  
