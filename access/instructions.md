@@ -12,11 +12,11 @@ These are the individual changes you are required to indentify and correct withi
 ![question 2](../noaccess/images/question2.png)  
 ---  
 
-3. ** the "View product" text in the red box a url that points to [this page](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)**  
+3. **Change the "View product" text in the red box a url that points to [this page](https://www.bose.co.uk/GB/en/home-and-personal-audio/headphones/audio-and-mobile-headphones/soundtrue-around-ear-headphones/)**  
 ![question 3](../noaccess/images/question3.png)  
 ---  
 
-4. ** the "Designed for Samsung" image 18px to the right, so that it is vertically aligned with the text in the list items above (as shown)**  
+4. **Change the "Designed for Samsung" image 18px to the right, so that it is vertically aligned with the text in the list items above (as shown)**  
 ![question 4](../noaccess/images/question4.png)  
 ---  
 
